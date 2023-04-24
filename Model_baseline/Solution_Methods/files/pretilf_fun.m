@@ -1,0 +1,14 @@
+function function_f=pretilf_fun(variables_v,parameters)
+BETA=parameters(1);
+GAMMA=parameters(2);
+ALPHA=parameters(3);
+RHO=parameters(4);
+DELTA=parameters(5);
+SIGMA=parameters(6);
+output=variables_v(1,:);
+k=variables_v(2,:);
+c=variables_v(3,:);
+kp=variables_v(4,:);
+invk=variables_v(5,:);
+function_f=zeros(1,size(variables_v,2));
+function_f(1,:)=-invk.*(c + kp - output + k.*(DELTA - 1));

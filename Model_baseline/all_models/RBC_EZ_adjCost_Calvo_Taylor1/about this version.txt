@@ -1,0 +1,7 @@
+This version is:
+1. Standard RBC model with Epstein-Zin prefernece and variable disaster risk.
+2. Capital adjustment costs.
+3. Calvo pricing of intermediate goods.
+4. Taylor rule depends on inflation and output growth.
+
+

@@ -1,0 +1,11 @@
+function function_f=stochtilf_fun(variables_v,parameters)
+BETA=parameters(1);
+GAMMA=parameters(2);
+ALPHA=parameters(3);
+RHO=parameters(4);
+DELTA=parameters(5);
+SIGMA=parameters(6);
+mpkp=variables_v(1,:);
+mp=variables_v(2,:);
+function_f=zeros(1,size(variables_v,2));
+function_f(1,:)=mp.*(mpkp - DELTA + 1) - 1;

@@ -1,0 +1,1 @@
+This version is a Standard RBC model with Epstein-Zin prefernece and variable disaster risk.

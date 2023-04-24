@@ -1,0 +1,9 @@
+Copyright © 2016 Oren Levintal
+
+The software in this folder was written to implement the fifth-order perturbation method presented in Levintal, Oren, "Fifth-Order Perturbation Solution to DSGE Models", manuscript, Interdisciplinary Center (IDC) Herzliya, 2015.
+
+The software can be used freely for noncommerical purposes. Any modification of this software must include the original software and state that it was changed and the date of change.
+
+This license file shall be included in all copies of the software, parts of it, or modified versions.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
